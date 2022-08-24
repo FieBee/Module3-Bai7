@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Th-BoxModel:war">
+    <output-path>$PROJECT_DIR$/Th-BoxModel/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Th-BoxModel</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Th-BoxModel-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Th-BoxModel:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Th-MenuNgang:war">
+    <output-path>$PROJECT_DIR$/Th-MenuNgang/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Th-MenuNgang</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Th-MenuNgang-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Th-MenuNgang:war exploded" />
+    </root>
+  </artifact>
+</component>
