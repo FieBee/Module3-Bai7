@@ -10,9 +10,5 @@
         <module name="Th-MenuNgang" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Th-BoxModel" target="1.8" />
-      <module name="Th-MenuNgang" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Bai7.iml" filepath="$PROJECT_DIR$/.idea/Bai7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Th-BoxModel/Th-BoxModel.iml" filepath="$PROJECT_DIR$/Th-BoxModel/Th-BoxModel.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Th-MenuNgang/Th-MenuNgang.iml" filepath="$PROJECT_DIR$/Th-MenuNgang/Th-MenuNgang.iml" />
     </modules>
   </component>
 </project>
